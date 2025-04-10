@@ -18,7 +18,7 @@ A simple Python tool to download videos from Twitter/X.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/twitter-video-downloader.git
+   git clone https://github.com/shosseini811/twitter-video-downloader.git
    cd twitter-video-downloader
    ```
 
